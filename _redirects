@@ -1,0 +1,32 @@
+# Phase 7 — legacy URL redirects (Netlify / Cloudflare Pages)
+# Source: Phase-1-IA-Content/06-redirect-map.md
+
+/about-us.html                                          /about                                                   301
+/contact-us.html                                        /contact                                                 301
+/portfolio.html                                         /work                                                    301
+/portfolio                                              /work                                                    301
+/portfolio/market-place.html                            /work/market-place                                       301
+/portfolio/garment-manufacture-portal.html              /work/garment-manufacture-portal                         301
+/blog.html                                              /insights                                                301
+/blog                                                   /insights                                                301
+/privacy-policy.html                                    /privacy-policy                                          301
+/terms-and-condition.html                               /terms                                                   301
+/careers.html                                           /careers                                                 301
+
+/service/artificial-intelligence.html                   /services/ai-and-intelligent-solutions                   301
+/service/web-app-development.html                       /services/custom-software-and-web-applications           301
+/service/web-site-development.html                      /services/websites-and-ecommerce                         301
+/service/mobile-app-development.html                    /services/mobile-applications                            301
+/service/seo-service.html                               /services/digital-growth-and-seo                         301
+/service/graphic-designing.html                         /services/websites-and-ecommerce                         301
+/service-detail.html                                    /services                                                301
+
+/blog/a-k-h-it-solutions-marks-a-milestone-with-the-successful-launch-of-goddiva-ai.html  /insights/goddiva-ai-launch  301
+/blog/how-ai-is-impacting-businesses-and-the-world.html /insights/how-ai-is-impacting-businesses                 301
+/blog/year-end-party-at-hotel-riu-sri-lanka.html        /insights                                                301
+/blog/the-established-new-normal-work-from-home.html    /insights                                                301
+
+/careers/customer-service-assistant.html                /careers/customer-service-assistant                      301
+/careers/software-engineer---react-and-laravel.html     /careers/software-engineer-react-laravel                 301
+
+/start-a-project                                        /contact                                                 301
